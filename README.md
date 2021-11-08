@@ -3,10 +3,10 @@
 本项目采用pytorch实现了LeNet网络，应用CIFAR-10数据集图片分类。
 
 ## 数据集介绍
-
+Cancel changes
 CIFAR-10 数据集由 10 个类别的 60000 张 32x32 彩色图像组成，每个类别有 6000 张图像。 有 50000 张训练图像和 10000 张测试图像。10个类别分别为:'plane', 'car', 'bird', 'cat', 'deer','dog', 'frog', 'horse', 'ship', 'truck'。
 
-下载地址： https://www.cs.toronto.edu/~kriz/cifar-10-python.tar.gz，或直接允许本项目代码就可以下载。
+下载地址： https://www.cs.toronto.edu/~kriz/cifar-10-python.tar.gz，     或直接允许本项目代码就可以下载。
 
 ## 代码逻辑
 
